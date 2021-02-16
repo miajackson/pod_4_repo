@@ -8,7 +8,7 @@ print("Code Snippet 1:")
 u = 5
 v = 2
 
-if u * v = 10:
+if u * v == 10: 
     print(f"The product of u ({u}) and v ({v}) is 10")
 else:
     print(f"The product of u ({u}) and v ({v}) is not 10")
@@ -24,10 +24,10 @@ z = 30
 if z < x:
     print("z is less than x")
 
-elif z > x and z < y
+elif z > x and z < y:
     print("z is between x and y")
 
-else
+else:
     print("z is greater than y")
 
 
